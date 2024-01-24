@@ -1,0 +1,22 @@
+{
+  "name": "tuts2",
+  "version": "1.0.0",
+  "description": "Will use this to create nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "ali"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliJawadSubhan/node_mon.git"
+  },
+  "keywords": [
+    "jawad"
+  ],
+  "author": "Ali j",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliJawadSubhan/node_mon/issues"
+  },
+  "homepage": "https://github.com/AliJawadSubhan/node_mon#readme"
+}
